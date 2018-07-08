@@ -1,13 +1,12 @@
 //////////////////FIREBASE SETUP/INIT//////////////////
 var config = {
-    apiKey: "AIzaSyC6jLmPlZjP04JCO2LJGRwt_shJj4GWix4",
-    authDomain: "eat-meet.firebaseapp.com",
-    databaseURL: "https://eat-meet.firebaseio.com",
-    projectId: "eat-meet",
-    storageBucket: "eat-meet.appspot.com",
-    messagingSenderId: "103168267880"
+    apiKey: "AIzaSyAovHL8LcHwkzeQnVHb9VCPHbY66ta12A4",
+    authDomain: "eatmeet-dummy.firebaseapp.com",
+    databaseURL: "https://eatmeet-dummy.firebaseio.com",
+    projectId: "eatmeet-dummy",
+    storageBucket: "eatmeet-dummy.appspot.com",
+    messagingSenderId: "575569935375"
   };
-
   firebase.initializeApp(config);
 
 
